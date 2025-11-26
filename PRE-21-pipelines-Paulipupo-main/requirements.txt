@@ -1,5 +1,0 @@
-pytest
-pandas
-scikit-learn
-matplotlib
-ipykernel
